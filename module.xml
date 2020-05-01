@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="isc-dev.ZPM">
+    <Module>
+      <Name>isc-dev</Name>
+      <Version>1.4.0</Version>
+      <SourcesRoot>src</SourcesRoot>
+      <Packaging>module</Packaging>
+      <Resource Name="dev.PKG"/>
+    </Module>
+  </Document>
+</Export>
